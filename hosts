@@ -1,0 +1,2 @@
+[Managed_Nodes]
+k8s-master ansible_host=192.168.2.139 ansible_user=k8s_master
